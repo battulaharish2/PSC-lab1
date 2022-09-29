@@ -8,3 +8,5 @@
 4. Load Flow Study by Gauss-Seidel Method.
 5. Load Flow Study by Newton-Raphson (Polar) Method
 6. Load Flow Study by Fast-Decoupled Method
+
+If any indentations missed in the code, use auto indentation mfeature in the matlab before compiling the code. 
